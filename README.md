@@ -16,4 +16,4 @@ Hardwares used
 </ul>
 
 Video link to our project
-https://drive.google.com/file/d/1M9mG5mgliLHT16ugoOd0uPNgoGvkPf8k/view
+
