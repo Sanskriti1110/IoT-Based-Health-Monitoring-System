@@ -14,6 +14,3 @@ Hardwares used
   <li>Pulse sensor</li>
   <li>Temperature sensor (LM35)</li>
 </ul>
-
-Video link to our project
-
